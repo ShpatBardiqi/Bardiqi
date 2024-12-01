@@ -1,0 +1,2 @@
+# Bardiqi
+Dizajni
